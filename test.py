@@ -1,0 +1,2 @@
+w=test
+print("w")
